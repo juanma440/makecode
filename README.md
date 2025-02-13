@@ -1,1 +1,1 @@
-# programa makecode por juanm Manuel Gómez
+# programa makecode por juan Manuel Gómez
